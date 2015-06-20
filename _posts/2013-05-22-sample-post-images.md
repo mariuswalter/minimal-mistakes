@@ -13,7 +13,8 @@ There is nothing in this article
 
 
 
-![Alt text](https://cloud.githubusercontent.com/assets/5951502/2977506/3c91f448-dbac-11e3-9367-af7301e72ae2.jpg)
+<img src="https://cloud.githubusercontent.com/assets/5951502/2977506/3c91f448-dbac-11e3-9367-af7301e72ae2.jpg"
+style="width:80%; margin: 1em auto;">
 
 
 ## hahahahahaha
