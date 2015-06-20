@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Stuff
 tags: [about, marius, life]
 modified: 9-9-2013
 image:
