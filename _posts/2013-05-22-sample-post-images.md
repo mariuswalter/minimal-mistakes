@@ -7,13 +7,11 @@ tags: [sample post, images, test]
 
 There is nothing in this article
 
-# section 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac mollis odio, a mattis lorem. Sed mi lectus, ultrices sed enim quis, aliquam adipiscing tortor. Aenean pulvinar quam sit amet dolor condimentum, ut aliquam nibh elementum. Maecenas vel elit vitae eros hendrerit molestie vehicula ut eros. Vivamus vel scelerisque urna. Phasellus ornare enim vel euismod pellentesque. Aliquam in eleifend magna. Cras molestie ac massa in sollicitudin. Proin in tincidunt leo. Nam cursus, nisi non facilisis convallis, est quam convallis diam, in interdum felis dolor ut elit. Mauris dapibus nulla at elit aliquet vehicula. Nunc eu felis tincidunt, suscipit mauris et, aliquam lacus. Nullam euismod vel nisl nec tempor.
 
 ## sous section 2
 
-Sed sodales dui eget ornare placerat. Sed vel dolor convallis, luctus libero eget, venenatis sapien. In id velit a ante condimentum malesuada sed a augue. Nam auctor eros nec nulla ullamcorper tincidunt. Vestibulum non cursus dui. Etiam gravida in eros eget commodo. Sed bibendum nisi ac nibh bibendum, eu congue enim condimentum. Curabitur euismod justo id turpis faucibus, sit amet rhoncus est lacinia. Praesent et sapien a ipsum accumsan egestas.
+
 
 ![Alt text](https://cloud.githubusercontent.com/assets/5951502/2977506/3c91f448-dbac-11e3-9367-af7301e72ae2.jpg)
 
@@ -21,7 +19,6 @@ Sed sodales dui eget ornare placerat. Sed vel dolor convallis, luctus libero ege
 ## hahahahahaha
 
 
-Pellentesque et eros eget velit consectetur aliquet id porttitor lacus. Praesent interdum at tellus vitae venenatis. Fusce accumsan sem ac lacus bibendum, eget sollicitudin libero hendrerit. Aliquam erat volutpat. Nulla facilisi. Nulla molestie adipiscing risus, ut pellentesque felis pellentesque nec. Curabitur eu sagittis sapien, ut pharetra ligula.
 
 # section II
 
