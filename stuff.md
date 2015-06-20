@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post-index
 title: Stuff
+permalink: /stuff/index.html
 tags: [about, marius, life]
 modified: 9-9-2013
 image:
@@ -10,3 +11,4 @@ image:
 > If you're going through hell, keep going.
 
 Churchill
+
